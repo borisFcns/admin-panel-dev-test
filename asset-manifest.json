@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/admin-panel-dev-test/static/css/main.41fc0b9a.css",
-    "main.js": "/admin-panel-dev-test/static/js/main.d58faae4.js",
+    "main.css": "/admin-panel-dev-test/static/css/main.b9b7bd2a.css",
+    "main.js": "/admin-panel-dev-test/static/js/main.dc1a3bd3.js",
     "static/js/453.9479692d.chunk.js": "/admin-panel-dev-test/static/js/453.9479692d.chunk.js",
     "static/media/DMSans-Italic-VariableFont_opsz,wght.ttf": "/admin-panel-dev-test/static/media/DMSans-Italic-VariableFont_opsz,wght.3812fdba66bd4e31febd.ttf",
     "static/media/DMSans-VariableFont_opsz,wght.ttf": "/admin-panel-dev-test/static/media/DMSans-VariableFont_opsz,wght.b230ddb7eabb4b25e123.ttf",
     "static/media/background.webp": "/admin-panel-dev-test/static/media/background.06c0b49ff49133ba20fb.webp",
     "index.html": "/admin-panel-dev-test/index.html",
-    "main.41fc0b9a.css.map": "/admin-panel-dev-test/static/css/main.41fc0b9a.css.map",
-    "main.d58faae4.js.map": "/admin-panel-dev-test/static/js/main.d58faae4.js.map",
+    "main.b9b7bd2a.css.map": "/admin-panel-dev-test/static/css/main.b9b7bd2a.css.map",
+    "main.dc1a3bd3.js.map": "/admin-panel-dev-test/static/js/main.dc1a3bd3.js.map",
     "453.9479692d.chunk.js.map": "/admin-panel-dev-test/static/js/453.9479692d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.41fc0b9a.css",
-    "static/js/main.d58faae4.js"
+    "static/css/main.b9b7bd2a.css",
+    "static/js/main.dc1a3bd3.js"
   ]
 }
