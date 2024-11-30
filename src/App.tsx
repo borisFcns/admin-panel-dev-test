@@ -5,7 +5,7 @@ import "@borisFcns/panelkit-core/dist/panelkit-styles.css";
 function App() {
   return (
     <div className="App">
-      <Core id="core" />
+      <Core id="core" basename="admin-panel-dev-test" />
     </div>
   );
 }
