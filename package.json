@@ -1,5 +1,6 @@
 {
-  "name": "admin-panel",
+  "name": "admin-panel-dev-test",
+  "homepage": "https://boris@felicons.com.github.io/admin-panel-dev-test",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -22,7 +23,8 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "dev": "react-scripts start"
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
