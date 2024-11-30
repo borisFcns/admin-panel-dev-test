@@ -1,12 +1,11 @@
 import "./App.css";
-// import { Core } from "panelkit-core";
-// import "panelkit-core/dist/panelkit-styles.css";
+import { Core } from "@borisFcns/panelkit-core";
+import "@borisFcns/panelkit-core/dist/panelkit-styles.css";
 
 function App() {
   return (
     <div className="App">
-      {/* <Core id="core" /> */}
-      test123423
+      <Core id="core" />
     </div>
   );
 }
