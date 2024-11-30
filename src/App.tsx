@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
       {/* <Core id="core" /> */}
-      test123
+      test123423
     </div>
   );
 }
