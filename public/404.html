@@ -4,8 +4,9 @@
     <meta http-equiv="refresh" content="0; url=/" />
     <script>
       // Redirect to the appropriate route
-      var path = window.location.pathname.replace("/admin-panel-dev-test", "");
-      window.location.href = "/" + path;
+      var baseUrl = window.location.origin;
+      window.location.href =
+        baseUrl + "/" + window.location.pathname.split("/")[1];
     </script>
   </head>
   <body></body>
