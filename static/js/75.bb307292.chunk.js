@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkadmin_panel_dev_test=self.webpackChunkadmin_panel_dev_test||[]).push([[75],{6075:(e,t,n)=>{n.r(t),n.d(t,{default:()=>d});var a=n(5043),d=function(e){return a.createElement("div",null,"Hi from ListWidget")}}}]);
