@@ -1,19 +1,22 @@
 {
   "files": {
-    "main.css": "/admin-panel-dev-test/static/css/main.18c8ac34.css",
-    "main.js": "/admin-panel-dev-test/static/js/main.9afc387a.js",
-    "static/js/75.bb307292.chunk.js": "/admin-panel-dev-test/static/js/75.bb307292.chunk.js",
+    "main.css": "/admin-panel-dev-test/static/css/main.b35e21ad.css",
+    "main.js": "/admin-panel-dev-test/static/js/main.eb2abfb7.js",
+    "static/js/611.417d6e42.chunk.js": "/admin-panel-dev-test/static/js/611.417d6e42.chunk.js",
+    "static/js/557.24227a46.chunk.js": "/admin-panel-dev-test/static/js/557.24227a46.chunk.js",
+    "static/js/903.b27f7f57.chunk.js": "/admin-panel-dev-test/static/js/903.b27f7f57.chunk.js",
     "static/js/453.9479692d.chunk.js": "/admin-panel-dev-test/static/js/453.9479692d.chunk.js",
     "static/media/DMSans-Italic-VariableFont_opsz,wght.ttf": "/admin-panel-dev-test/static/media/DMSans-Italic-VariableFont_opsz,wght.3812fdba66bd4e31febd.ttf",
     "static/media/DMSans-VariableFont_opsz,wght.ttf": "/admin-panel-dev-test/static/media/DMSans-VariableFont_opsz,wght.b230ddb7eabb4b25e123.ttf",
     "static/media/background.webp": "/admin-panel-dev-test/static/media/background.06c0b49ff49133ba20fb.webp",
     "index.html": "/admin-panel-dev-test/index.html",
-    "main.18c8ac34.css.map": "/admin-panel-dev-test/static/css/main.18c8ac34.css.map",
-    "main.9afc387a.js.map": "/admin-panel-dev-test/static/js/main.9afc387a.js.map",
+    "main.b35e21ad.css.map": "/admin-panel-dev-test/static/css/main.b35e21ad.css.map",
+    "main.eb2abfb7.js.map": "/admin-panel-dev-test/static/js/main.eb2abfb7.js.map",
+    "611.417d6e42.chunk.js.map": "/admin-panel-dev-test/static/js/611.417d6e42.chunk.js.map",
     "453.9479692d.chunk.js.map": "/admin-panel-dev-test/static/js/453.9479692d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.18c8ac34.css",
-    "static/js/main.9afc387a.js"
+    "static/css/main.b35e21ad.css",
+    "static/js/main.eb2abfb7.js"
   ]
 }
