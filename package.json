@@ -1,7 +1,7 @@
 {
   "name": "admin-panel-dev-test",
   "homepage": "https://boris@felicons.com.github.io/admin-panel-dev-test",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "private": true,
   "dependencies": {
     "@borisfcns/panelkit-core": "^1.0.9",
