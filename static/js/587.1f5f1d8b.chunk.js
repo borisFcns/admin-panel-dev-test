@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkadmin_panel_dev_test=self.webpackChunkadmin_panel_dev_test||[]).push([[587],{3587:(e,t,a)=>{a.r(t),a.d(t,{default:()=>d});var n=a(5043),d=function(e){var t=e.text;return n.createElement("div",{style:{background:"red"}},t)}}}]);

@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/admin-panel-dev-test/static/css/main.aa6dd5ea.css",
-    "main.js": "/admin-panel-dev-test/static/js/main.8cc96392.js",
-    "static/js/361.aea66a41.chunk.js": "/admin-panel-dev-test/static/js/361.aea66a41.chunk.js",
-    "static/js/5.7174b040.chunk.js": "/admin-panel-dev-test/static/js/5.7174b040.chunk.js",
-    "static/js/587.1f5f1d8b.chunk.js": "/admin-panel-dev-test/static/js/587.1f5f1d8b.chunk.js",
+    "main.css": "/admin-panel-dev-test/static/css/main.a98f9272.css",
+    "main.js": "/admin-panel-dev-test/static/js/main.5fd9e632.js",
+    "static/js/301.4eae8f51.chunk.js": "/admin-panel-dev-test/static/js/301.4eae8f51.chunk.js",
+    "static/js/184.46c52b15.chunk.js": "/admin-panel-dev-test/static/js/184.46c52b15.chunk.js",
+    "static/js/604.97b1ace8.chunk.js": "/admin-panel-dev-test/static/js/604.97b1ace8.chunk.js",
     "static/js/453.9479692d.chunk.js": "/admin-panel-dev-test/static/js/453.9479692d.chunk.js",
-    "static/media/DMSans-Italic-VariableFont_opsz,wght.ttf": "/admin-panel-dev-test/static/media/DMSans-Italic-VariableFont_opsz,wght.3812fdba66bd4e31febd.ttf",
-    "static/media/DMSans-VariableFont_opsz,wght.ttf": "/admin-panel-dev-test/static/media/DMSans-VariableFont_opsz,wght.b230ddb7eabb4b25e123.ttf",
+    "static/media/Inter-Italic-VariableFont_opsz,wght.ttf": "/admin-panel-dev-test/static/media/Inter-Italic-VariableFont_opsz,wght.831252f8ba7e1b5b2432.ttf",
+    "static/media/Inter-VariableFont_opsz,wght.ttf": "/admin-panel-dev-test/static/media/Inter-VariableFont_opsz,wght.e05c5f3d1fa6a3893d84.ttf",
     "static/media/background.webp": "/admin-panel-dev-test/static/media/background.06c0b49ff49133ba20fb.webp",
     "index.html": "/admin-panel-dev-test/index.html",
-    "main.aa6dd5ea.css.map": "/admin-panel-dev-test/static/css/main.aa6dd5ea.css.map",
-    "main.8cc96392.js.map": "/admin-panel-dev-test/static/js/main.8cc96392.js.map",
-    "361.aea66a41.chunk.js.map": "/admin-panel-dev-test/static/js/361.aea66a41.chunk.js.map",
+    "main.a98f9272.css.map": "/admin-panel-dev-test/static/css/main.a98f9272.css.map",
+    "main.5fd9e632.js.map": "/admin-panel-dev-test/static/js/main.5fd9e632.js.map",
+    "301.4eae8f51.chunk.js.map": "/admin-panel-dev-test/static/js/301.4eae8f51.chunk.js.map",
     "453.9479692d.chunk.js.map": "/admin-panel-dev-test/static/js/453.9479692d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.aa6dd5ea.css",
-    "static/js/main.8cc96392.js"
+    "static/css/main.a98f9272.css",
+    "static/js/main.5fd9e632.js"
   ]
 }
