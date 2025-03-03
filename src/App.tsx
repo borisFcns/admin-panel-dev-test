@@ -1,11 +1,17 @@
 import "./App.css";
-import { Core } from "@borisFcns/panelkit-core";
-import "@borisFcns/panelkit-core/dist/panelkit-styles.css";
+import { CoreWrapper } from "@borisfcns/panelkit-core";
+import "@borisfcns/panelkit-core/dist/panelkit-styles.css";
 
 function App() {
   return (
     <div className="App">
-      <Core id="core" basename="admin-panel-dev-test" />
+        {/*@ts-ignore*/}
+      <CoreWrapper id="core"
+            basename="admin-panel-dev-test"
+            urls={{
+                apiUrl: "https://manager-api.felicons.com:2096",
+                authUrl:  "https://manager-auth-api.felicons.com:2096",
+            }} />
     </div>
   );
 }
