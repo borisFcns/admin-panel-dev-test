@@ -1,10 +1,16 @@
 {
   "name": "admin-panel-dev-test",
   "homepage": "https://boris@felicons.com.github.io/admin-panel-dev-test",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "private": true,
   "dependencies": {
-    "@borisfcns/panelkit-core": "^1.0.9",
+    "@borisfcns/panelkit-core": "^1.1.0",
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.0",
+    "@fontsource/roboto": "^5.2.5",
+    "@mui/icons-material": "^6.4.8",
+    "@mui/material": "^6.4.8",
+    "@mui/x-data-grid": "^7.28.0",
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
@@ -23,7 +29,9 @@
     "rxjs": "^7.8.1",
     "typescript": "^4.9.5",
     "web-vitals": "^2.1.4",
-    "jwt-decode": "^4.0.0"
+    "jwt-decode": "^4.0.0",
+    "lodash": "^4.17.21"
+
   },
   "scripts": {
     "start": "react-scripts start",
