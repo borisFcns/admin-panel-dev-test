@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/admin-panel-dev-test/static/css/main.69c9d056.css",
-    "main.js": "/admin-panel-dev-test/static/js/main.6759dc2d.js",
+    "main.css": "/admin-panel-dev-test/static/css/main.60609ac8.css",
+    "main.js": "/admin-panel-dev-test/static/js/main.bee7c346.js",
     "static/js/301.f73b9560.chunk.js": "/admin-panel-dev-test/static/js/301.f73b9560.chunk.js",
     "static/js/184.46c52b15.chunk.js": "/admin-panel-dev-test/static/js/184.46c52b15.chunk.js",
     "static/js/604.97b1ace8.chunk.js": "/admin-panel-dev-test/static/js/604.97b1ace8.chunk.js",
-    "static/js/703.60263f92.chunk.js": "/admin-panel-dev-test/static/js/703.60263f92.chunk.js",
+    "static/js/241.aa986da1.chunk.js": "/admin-panel-dev-test/static/js/241.aa986da1.chunk.js",
     "static/js/453.9479692d.chunk.js": "/admin-panel-dev-test/static/js/453.9479692d.chunk.js",
     "static/media/Inter-Italic-VariableFont_opsz,wght.ttf": "/admin-panel-dev-test/static/media/Inter-Italic-VariableFont_opsz,wght.831252f8ba7e1b5b2432.ttf",
     "static/media/Inter-VariableFont_opsz,wght.ttf": "/admin-panel-dev-test/static/media/Inter-VariableFont_opsz,wght.e05c5f3d1fa6a3893d84.ttf",
     "static/media/background.webp": "/admin-panel-dev-test/static/media/background.06c0b49ff49133ba20fb.webp",
     "index.html": "/admin-panel-dev-test/index.html",
-    "main.69c9d056.css.map": "/admin-panel-dev-test/static/css/main.69c9d056.css.map",
-    "main.6759dc2d.js.map": "/admin-panel-dev-test/static/js/main.6759dc2d.js.map",
+    "main.60609ac8.css.map": "/admin-panel-dev-test/static/css/main.60609ac8.css.map",
+    "main.bee7c346.js.map": "/admin-panel-dev-test/static/js/main.bee7c346.js.map",
     "301.f73b9560.chunk.js.map": "/admin-panel-dev-test/static/js/301.f73b9560.chunk.js.map",
-    "703.60263f92.chunk.js.map": "/admin-panel-dev-test/static/js/703.60263f92.chunk.js.map",
+    "241.aa986da1.chunk.js.map": "/admin-panel-dev-test/static/js/241.aa986da1.chunk.js.map",
     "453.9479692d.chunk.js.map": "/admin-panel-dev-test/static/js/453.9479692d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.69c9d056.css",
-    "static/js/main.6759dc2d.js"
+    "static/css/main.60609ac8.css",
+    "static/js/main.bee7c346.js"
   ]
 }
